@@ -32,8 +32,8 @@ This chatbot is designed to enhance user interactions by retrieving relevant kno
 ## 🚀 Installation & Setup
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/your-repo/llm-rag-chatbot.git
-cd llm-rag-chatbot
+https://github.com/gravitas-ai-admin/gravitas-ai-llm-rag-system.git
+cd gravitas-ai-llm-rag-system
 ```
 
 ### 2️⃣ Install Dependencies
