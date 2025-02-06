@@ -1,4 +1,4 @@
-# 🤖 TINA LLM RAG Chatbot
+# 🤖 LLM RAG Chatbot
 
 ## 📌 Overview
 The **LLM RAG Chatbot** is an AI-powered conversational assistant that leverages **Retrieval-Augmented Generation (RAG)** to provide intelligent, context-aware responses. It utilizes:
@@ -32,8 +32,8 @@ This chatbot is designed to enhance user interactions by retrieving relevant kno
 ## 🚀 Installation & Setup
 ### 1️⃣ Clone the Repository
 ```sh
-https://github.com/gravitas-ai-admin/gravitas-ai-llm-rag-system.git
-cd gravitas-ai-llm-rag-system
+git clone https://github.com/your-repo/llm-rag-chatbot.git
+cd llm-rag-chatbot
 ```
 
 ### 2️⃣ Install Dependencies
